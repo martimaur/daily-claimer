@@ -26,33 +26,31 @@ Getting Started
    - First, clone this repository or download the ZIP file.
 
 2. **Get the necessary dependencies**:
-   Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
-
-    1. Clone the Repository: If you haven't already, clone this repository to your local machine.
+   - Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
     
-       git clone https://github.com/yourusername/your-repo.git
+    1. **Navigate to the Project Directory**:
+       - Change your working directory to the project's root folder.
     
-    2. Navigate to the Project Directory: Change your working directory to the project's root folder.
+       `cd your-repo`
     
-       cd your-repo
+    3. **Install Dependencies**:
+     - Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
     
-    3. Install Dependencies: Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
-    
-       npm install
-       # or
-       yarn install
+       `npm install`
+       **or**
+       `yarn install`
     
        This will read the dependencies from the package.json file and install them in the node_modules directory.
 
 That's it! You should now have the project dependencies installed and be able to run main.js without any issues.
   
-4. **Get Cookies**:
+3. **Get Cookies**:
    - Run `getCookies.js` to authenticate yourself on the website.
      - The script will close itself if you're too slow.
      - Once correctly logged in, cookies will be saved in the `./data/cookies1.json` file by default.
      - For additional accounts, create new files (e.g., `./data/cookies2.json`).
 
-5. **Configure Cookies**:
+4. **Configure Cookies**:
    - In `main.js`, add your cookie files to the `cookieFiles` list:
      ```javascript
      const cookieFiles = [
@@ -62,10 +60,10 @@ That's it! You should now have the project dependencies installed and be able to
      ```
      - You can add more as needed.
 
-6. **Run the Script**:
+5. **Run the Script**:
    - Execute `main.js`, and if everything is set up correctly, check the `log.txt` file for successful claims.
 
-7. **Automation (Windows)**:
+6. **Automation (Windows)**:
    - To fully automate the process on Windows, set up a scheduled task with the Windows Task Scheduler.
      - Schedule it to run every 24 hours (consider adding a few extra minutes as a buffer).
 
