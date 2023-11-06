@@ -1,4 +1,12 @@
 # CSGO Automatic Daily Claimer
+
+
+<div align="center">
+  <img src="https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png" width="150" height="150">
+  <img src="https://github.com/martimaur/daily-claimer/assets/149742293/f924e958-aac8-4733-8ffb-da45f8b0e3a0" width="150" height="150">
+</div>
+
+
 ![CSGO Logo](https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png)
 ![puppeteer](https://github.com/martimaur/daily-claimer/assets/149742293/f924e958-aac8-4733-8ffb-da45f8b0e3a0)
 
