@@ -16,7 +16,7 @@ Before proceeding with this project, please ensure that you have the correct Nod
 ```sh
 node -v
 ```
-- If the output displays v18.16.0, you have the correct version installed. Make sure you get it before trying to run the code.
+- If the output displays `v18.16.0`, you have the correct version installed. Make sure you get it before trying to run the code.
 
 ## How to Use
 1. **Clone or Download**:
