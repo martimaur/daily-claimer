@@ -1,4 +1,4 @@
-# CSGO Automatic Daily Claimer
+# Automatic Daily Claimer Bot
 
 
 <div align="center">
