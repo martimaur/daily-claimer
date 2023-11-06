@@ -1,5 +1,5 @@
 # CSGO Automatic Daily Claimer
-![CSGO Logo](https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png) <!-- Add a CSGO logo image here -->s
+![CSGO Logo](https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png) <!-- Add a CSGO logo image here -->
 
 Automate your daily claiming on a CSGO website with ease. This TypeScript script supports multiple accounts and uses cookies for authentication.
 
