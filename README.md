@@ -22,43 +22,37 @@ node -v
 
 Getting Started
 
-Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
-
-1. Clone the Repository: If you haven't already, clone this repository to your local machine.
-
-   git clone https://github.com/yourusername/your-repo.git
-
-2. Navigate to the Project Directory: Change your working directory to the project's root folder.
-
-   cd your-repo
-
-3. Install Dependencies: Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
-
-   npm install
-   # or
-   yarn install
-
-   This will read the dependencies from the package.json file and install them in the node_modules directory.
-
-4. Run main.js: You can now run the main script:
-
-   node main.js
-
-   Ensure that you have the required Node.js version installed, as mentioned in the Disclaimer section.
-
-That's it! You should now have the project dependencies installed and be able to run main.js without any issues.
-
-
 1. **Clone or Download**:
    - First, clone this repository or download the ZIP file.
 
-2. **Get Cookies**:
+2. **Get the necessary dependencies**:
+   Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
+
+    1. Clone the Repository: If you haven't already, clone this repository to your local machine.
+    
+       git clone https://github.com/yourusername/your-repo.git
+    
+    2. Navigate to the Project Directory: Change your working directory to the project's root folder.
+    
+       cd your-repo
+    
+    3. Install Dependencies: Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
+    
+       npm install
+       # or
+       yarn install
+    
+       This will read the dependencies from the package.json file and install them in the node_modules directory.
+
+That's it! You should now have the project dependencies installed and be able to run main.js without any issues.
+  
+4. **Get Cookies**:
    - Run `getCookies.js` to authenticate yourself on the website.
      - The script will close itself if you're too slow.
      - Once correctly logged in, cookies will be saved in the `./data/cookies1.json` file by default.
      - For additional accounts, create new files (e.g., `./data/cookies2.json`).
 
-3. **Configure Cookies**:
+5. **Configure Cookies**:
    - In `main.js`, add your cookie files to the `cookieFiles` list:
      ```javascript
      const cookieFiles = [
@@ -68,10 +62,10 @@ That's it! You should now have the project dependencies installed and be able to
      ```
      - You can add more as needed.
 
-4. **Run the Script**:
+6. **Run the Script**:
    - Execute `main.js`, and if everything is set up correctly, check the `log.txt` file for successful claims.
 
-5. **Automation (Windows)**:
+7. **Automation (Windows)**:
    - To fully automate the process on Windows, set up a scheduled task with the Windows Task Scheduler.
      - Schedule it to run every 24 hours (consider adding a few extra minutes as a buffer).
 
