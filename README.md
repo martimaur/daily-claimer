@@ -1,5 +1,6 @@
 # Automatic Daily Claimer Bot
 
+[![Github All Releases](https://img.shields.io/github/downloads/martimaur/daily-claimer/total.svg)]()
 
 <div align="center">
   <img src="https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png" width="100" height="100">
