@@ -31,7 +31,7 @@ Getting Started
     1. **Navigate to the Project Directory**:
        - Change your working directory to the project's root folder.
     
-       `cd your-repo`
+       `cd daily-claimer`
     
     3. **Install Dependencies**:
      - Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
