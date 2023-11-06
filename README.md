@@ -16,7 +16,7 @@ Automate your daily claiming on a CSGO/CS2 website with ease. This TypeScript sc
 2. **Get Cookies**:
    - Run `getCookies.js` to authenticate yourself on the website.
      - The script will close itself if you're too slow.
-     - Cookies will be saved in the `./data/cookies1.json` file by default.
+     - Once correctly logged in, cookies will be saved in the `./data/cookies1.json` file by default.
      - For additional accounts, create new files (e.g., `./data/cookies2.json`).
 
 3. **Configure Cookies**:
