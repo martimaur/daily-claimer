@@ -19,6 +19,36 @@ node -v
 - If the output displays `v18.16.0`, you have the correct version installed. Make sure you get it before trying to run the code.
 
 ## How to Use
+
+Getting Started
+
+Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
+
+1. Clone the Repository: If you haven't already, clone this repository to your local machine.
+
+   git clone https://github.com/yourusername/your-repo.git
+
+2. Navigate to the Project Directory: Change your working directory to the project's root folder.
+
+   cd your-repo
+
+3. Install Dependencies: Run the following command to install the project's dependencies using the package manager specified in the project (usually npm or yarn).
+
+   npm install
+   # or
+   yarn install
+
+   This will read the dependencies from the package.json file and install them in the node_modules directory.
+
+4. Run main.js: You can now run the main script:
+
+   node main.js
+
+   Ensure that you have the required Node.js version installed, as mentioned in the Disclaimer section.
+
+That's it! You should now have the project dependencies installed and be able to run main.js without any issues.
+
+
 1. **Clone or Download**:
    - First, clone this repository or download the ZIP file.
 
