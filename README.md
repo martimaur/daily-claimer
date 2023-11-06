@@ -7,7 +7,7 @@
 </div>
 <!-- Add a CSGO logo image here -->
 
-Automate your daily claiming on a CSGO/CS2 website with ease. This TypeScript script uses Puppeteer and supports multiple accounts and uses cookies for authentication.
+Automate your daily claiming on a CSGO/CS2 website with ease. This TypeScript script uses Puppeteer and supports multiple accounts as it uses cookies for authentication.
 
 ## How to Use
 1. **Clone or Download**:
