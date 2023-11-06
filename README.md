@@ -24,8 +24,8 @@ node -v
 Getting Started
 
 1. **Clone or Download**:
-   - First, clone this repository or download the ZIP file.
-   - You can download the latest release as a zip file [here]([https://github.com/martimaur/daily-claimer/releases/download/v1.0.0/HellCaseBot_firstRelease.zip]).
+   - First, you can clone this repository or download the ZIP file.
+   - You can also download the latest release as a zip file [here](https://github.com/martimaur/daily-claimer/releases/download/v1.0.0/HellCaseBot_firstRelease.zip).
 
 2. **Get the necessary dependencies**:
    - Before you can run main.js, you need to make sure that you have installed the project's dependencies. Here's how to do it:
