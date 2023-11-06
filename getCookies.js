@@ -24,14 +24,9 @@ async function getCookies()  {
 
   console.log("saving cookies..\n")
   
-  await page.screenshot({
-    path: 'testresult.png',
-    fullPage: true
-  })
-  
   //save cookies
   const cookies = await page.cookies();
-  await fs.writeFile('./data/cookies6.json', JSON.stringify(cookies, null, 2));
+  await fs.writeFile('./data/cookies1.json', JSON.stringify(cookies, null, 2)); // if you want to get more cookies, simply change the file name to cookies2 (ex) so you dont override latest.
 
   console.log("cookies saved!\n")
   await browser.close()
