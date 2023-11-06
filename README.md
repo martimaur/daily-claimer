@@ -9,6 +9,15 @@
 
 Automate your daily claiming on a CSGO/CS2 website with ease. This JavaScript script uses Puppeteer and supports multiple accounts as it uses cookies for authentication.
 
+## Disclaimer
+
+Before proceeding with this project, please ensure that you have the correct Node.js version (18.16.0) installed on your system. To check if you have the correct version, open your terminal or command prompt and run the following command:
+
+```sh
+node -v
+```
+- If the output displays v18.16.0, you have the correct version installed. Make sure you get it before trying to run the code.
+
 ## How to Use
 1. **Clone or Download**:
    - First, clone this repository or download the ZIP file.
