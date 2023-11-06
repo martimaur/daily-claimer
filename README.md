@@ -1,2 +1,4 @@
 # csgo automatic daily claimer
-simple script to automate daily claim in website
+Simple script I wrote to automate daily claiming in a csgo website. 
+This script supports various accounts and makes use of the cookies for authentification.
+
