@@ -46,6 +46,9 @@ That's it! You should now have the project dependencies installed and be able to
   
 3. **Get Cookies**:
    - Run `getCookies.js` to authenticate yourself on the website.
+   - ```sh
+     node getCookies.js
+     ```
      - The script will close itself if you're too slow.
      - Once correctly logged in, cookies will be saved in the `./data/cookies1.json` file by default.
      - For additional accounts, create new files (e.g., `./data/cookies2.json`).
@@ -62,6 +65,9 @@ That's it! You should now have the project dependencies installed and be able to
 
 5. **Run the Script**:
    - Execute `main.js`, and if everything is set up correctly, check the `log.txt` file for successful claims.
+     ```sh
+     node main.js
+     ```
 
 6. **Automation (Windows)**:
    - To fully automate the process on Windows, set up a scheduled task with the Windows Task Scheduler.
