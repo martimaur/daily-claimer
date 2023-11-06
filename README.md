@@ -36,7 +36,7 @@ Automate your daily claiming on a CSGO website with ease. This TypeScript script
    - To fully automate the process on Windows, set up a scheduled task with the Windows Task Scheduler.
      - Schedule it to run every 24 hours (consider adding a few extra minutes as a buffer).
 
-   ![Task Scheduler](https://learn.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page) <!-- Add a Task Scheduler icon image here -->
+   [Task Scheduler](https://learn.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page)
 
    Your CSGO daily claiming is now automated! Enjoy.
 
