@@ -1,5 +1,5 @@
 # CSGO Automatic Daily Claimer
-![CSGO Logo](https://logos-world.net/wp-content/uploads/2023/02/CSGO-Logo.png) <!-- Add a CSGO logo image here -->
+![CSGO Logo](https://asset.brandfetch.io/iduOebIV3w/idjVSs_poL.png) <!-- Add a CSGO logo image here -->s
 
 Automate your daily claiming on a CSGO website with ease. This TypeScript script supports multiple accounts and uses cookies for authentication.
 
@@ -34,10 +34,3 @@ Automate your daily claiming on a CSGO website with ease. This TypeScript script
 
    Your CSGO daily claiming is now automated! Enjoy.
 
-## Icons
-You can use icons to make your README more visually appealing. You can find free icons on websites like [FontAwesome](https://fontawesome.com/). For example, the CSGO logo and Task Scheduler icon can be replaced with actual icons.
-
-Remember to replace the image links (`https://example.com/...`) with actual image URLs or upload the images to your repository.
-
-<!-- You can also add a "Download ZIP" button here -->
-[![Download ZIP](https://example.com/download-zip-button.png)](https://github.com/your-username/your-repo/archive/main.zip)
