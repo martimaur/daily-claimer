@@ -1,9 +1,6 @@
-const cookieFiles = ['C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies.json' ,
-                     'C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies2.json',
-                     'C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies3.json',
-                     'C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies4.json',
-                     'C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies5.json',
-                     'C:/Users/Martim Auriault/Documents/HellCaseBot/data/cookies6.json'];
+// full path to your cookies files
+const cookieFiles = ['C:/Users/your-user-name/Documents/HellCaseBot/data/cookies.json' ,
+                     'C:/Users/your-user-name/Documents/HellCaseBot/data/cookies2.json'];
 
 const puppeteer = require('puppeteer-extra')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
